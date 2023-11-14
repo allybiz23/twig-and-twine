@@ -1,0 +1,60 @@
+.resize {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.cake {
+    width: 300px;
+    height: 200px;
+    flex-shrink: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.fall {
+    width: 300px;
+    height: 281px;
+    flex-shrink: 0;
+    bottom: 0px;
+    left: 50px;
+    margin-right: 50%;
+}
+
+.topnav {
+    width: 1280px;
+    height: 93px;
+    flex-shrink: 0;
+    background: #C0B659;
+    margin-top: -25%;
+}
+
+.logo {
+    width: 238px;
+    height: 186px;
+    flex-shrink: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aboutus {
+    width: 100%;
+    height: 100%;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-style: italic;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+li {
+    display: inline;
+    margin-right: 50px;
+    text-decoration: underline;
+    margin: auto 0;
+}
